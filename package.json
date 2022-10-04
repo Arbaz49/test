@@ -1,0 +1,23 @@
+{
+  "name": "arbaz-custom-package",
+  "version": "1.0.0",
+  "description": "this is the first package created by Arbaz Solkar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arbaz49/test.git"
+  },
+  "keywords": [
+    "Arbaz-Solkar",
+    "arbaz"
+  ],
+  "author": "Arbaz Solkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arbaz49/test/issues"
+  },
+  "homepage": "https://github.com/Arbaz49/test#readme"
+}
